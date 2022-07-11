@@ -2,7 +2,7 @@
 - 👀 I’m interested in technology and making money!
 - 🌱 I’m currently learning front end web development
 - 💞️ I’m looking to collaborate on any business ventures
-- 📫 How to reach me - info@singhz.co.za
+- 📫 How to reach me - nimalsingh20@gmail.com
 
 <!---
 Nimz20/Nimz20 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
